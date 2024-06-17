@@ -1,0 +1,11 @@
+es\davidrico\jakarta\cabeceras\controladores\HoraActualizadaServlet.class
+es\davidrico\jakarta\cabeceras\controladores\ProductoJsonServlet.class
+es\davidrico\jakarta\cabeceras\controladores\CabecerasHttpRequestServlet.class
+es\davidrico\jakarta\cabeceras\servicios\ProductoServiceImpl.class
+es\davidrico\jakarta\cabeceras\controladores\RedirigirServlet.class
+es\davidrico\jakarta\cabeceras\modelos\Producto.class
+es\davidrico\jakarta\cabeceras\controladores\BuscarProductoServlet.class
+es\davidrico\jakarta\cabeceras\controladores\LoginServlet.class
+es\davidrico\jakarta\cabeceras\controladores\ProductoXlsServlet.class
+es\davidrico\jakarta\cabeceras\servicios\ProductoService.class
+es\davidrico\jakarta\cabeceras\controladores\DespacharServlet.class
